@@ -4,6 +4,8 @@ The **Interactive Lightsaber Bow** is a real-time audiovisual system that transf
 
 ---
 
+![Demo of Interactive Lightsaber Bow](lightsaber.gif)
+
 ## 🔧 Features
 
 - Real-time pitch detection from monophonic audio
